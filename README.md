@@ -8,3 +8,14 @@ Recomendaciones para la introduccion de datos:
 - 2 - la variable "RESULTADO" se debe completar con "W" si la inversion dio ganancias y con "L" si la inversion dio perdidas 
 - 3 - La variable "INVERSION" se debe completar con un "NUMERO ENTERO" sino el programa dara ERROR
 - 4 - Las variables  "CUOTA" y "GANANCIA" se deben completar con "NUMEROS ENTEROS O DECIMALES" sino el programa dara ERROR
+
+Ejemplo de como cargar datos
+- mes : Noviembre
+- liga : España
+- local : Villarreal
+- visitante : Valencia
+- linea : 1.5 (las inversiones son a total de corners, ahi estoy indicando que la linea es + 1.5 corners)
+- inversion : 2 (es el capital a invertir)
+- cuota : 1.9
+- resultado : W
+- ganancias : 1.8
