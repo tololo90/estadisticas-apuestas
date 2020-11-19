@@ -106,7 +106,8 @@ def inicio_programa():
                                      "Inversion": inversion, "Cuota": cuota,
                                      "Resultado": resultado,
                                      "Ganancia": ganancia})
-                    estadisticas.close()
+                    estadisticas.close()ç
+                    print("datos agregados correctamente")
                     break
 
         if seleccion == 3:
