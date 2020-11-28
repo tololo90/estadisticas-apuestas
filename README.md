@@ -22,4 +22,4 @@ Ejemplo de como cargar datos
 
 La funcion de consultar estadisticas tine dos partes:
 - 1 - Consultar las estadisticas generales
-- 2 - Consultar las estadisticas por ligas ingresando por comando las ligas deseada respentando mayusculas y minusculas
+- 2 - Consultar las estadisticas por ligas ingresando por comando la liga deseada respentando mayusculas y minusculas
