@@ -20,6 +20,6 @@ Ejemplo de como cargar datos
 - resultado : W
 - ganancias : 1.8
 
-La funcion de consultar estadisticas tine dos partes,
+La funcion de consultar estadisticas tine dos partes:
 - 1 - Consultar las estadisticas generales
 - 2 - Consultar las estadisticas por ligas ingresando por comando las ligas deseada respentando mayusculas y minusculas
